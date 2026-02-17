@@ -88,7 +88,7 @@
 
 ### 📌 Contribution Highlights
 <p align="left">
-  <img src="https://github-profile-summary-card.vercel.app/api/cards/profile-details?username=LoveChauhan-18&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-profile-summary-card.vercel.app/api/cards/profile-details?username=LoveChauhan-18&theme=radical" />
 </p>
 
 ### 📈 Contribution Graph
