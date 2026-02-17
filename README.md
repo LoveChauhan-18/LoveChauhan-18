@@ -57,7 +57,7 @@
 ### ⭐ ROCK-PAPER-SCISSOR WEB-GAME
 - 🛠️ **HTML • CSS • JavaScript**
 - 🔗 Live: `Coming Soon`
-- 📌 Repo: `Add your repo link here`
+- 📌 Repo: https://github.com/LoveChauhan-18/Rock-Paper-Scissor-game
 
 ---
 
