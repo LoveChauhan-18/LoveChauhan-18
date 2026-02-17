@@ -56,14 +56,14 @@
 
 ### ⭐ ROCK-PAPER-SCISSOR WEB-GAME
 - 🛠️ **HTML • CSS • JavaScript**
-- 🔗 Live: `Coming Soon`
+- 🔗 Live: `Now Live`
 - 📌 Repo: https://github.com/LoveChauhan-18/Rock-Paper-Scissor-game
 
 ---
 
 ### ⭐ FLAPPY-BIRD GAME
 - 🛠️ **Python  • Python-Liberary**
-- 🔗 Live: `Coming Soon`
+- 🔗 Live: `Now Live`
 - 📌 Repo: https://github.com/LoveChauhan-18/Flappy-Bird-Game
 
 ---
