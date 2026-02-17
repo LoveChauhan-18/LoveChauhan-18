@@ -88,7 +88,7 @@
 
 ### 📌 Contribution Highlights
 <p align="left">
-  <img src="https://github-profile-summary-card.vercel.app/api/cards/profile-details?username=LoveChauhan-18&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LoveChauhan-18&show_icons=true&theme=radical" />
 </p>
 
 ### 📈 Contribution Graph
