@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Frontend Developer</b> • <b>Open Source Contributor</b> • <b>Aspiring Full-Stack</b> 
+  <b>Frontend Developer</b> • <b>Open Source Contributor</b> • <b>Aspiring Full-Stack</b> • <b>Exploring AI and Machine Learning</b>
 </p>
 
 <p align="center">
