@@ -1,152 +1,126 @@
-# LoveChauhan-18
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Love%20Chauhan-18&fontSize=50&fontColor=ffffff&animation=twinkling&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=230&section=header&text=Love%20Kumar%20Chauhan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Turning%20Data%20into%20Decisions%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=17" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=F75C7E&center=true&vCenter=true&width=850&lines=Frontend+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;Clean+Code+%7C+Strong+Logic+%7C+Consistent+Growth+%E2%9C%A8" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&background=0D1117FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+Hi+there%2C+I'm+Love+%F0%9F%91%8B;%3E+AI%2FML+Engineer+%F0%9F%A4%96;%3E+Building+Intelligent+Systems+%F0%9F%9A%80;%3E+Data+%2B+Code+%3D+Insight+%F0%9F%93%8A" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <b>Frontend Developer</b> • <b>Open Source Contributor</b> • <b>Aspiring Full-Stack</b> • <b>Exploring AI and Machine Learning</b>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LoveChauhan-18&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=LoveChauhan-18&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/LoveChauhan-18?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="followers" />
+<img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00F7FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+" alt="status" />
 
----
+</div>
 
-## ✨ About Me
+<br/>
 
-- 💻 Frontend Developer | Aspiring **Full-Stack & Open Source Contributor**
-- 🧼 I love writing **clean, scalable, and maintainable code**
-- 🧠 Focused on **problem-solving** and building strong logic
-- 🇮🇳 Based in India ![FlagGIF](https://github.com/user-attachments/assets/9898dba2-5427-4e81-8d04-513fc4f4d044)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif" width="100" alt="animated robot" />
+</div>
 
+<br/>
 
----
+## 🧠 About Me
 
-## 🛠️ Tech Stack
+```yaml
+name: "Love Kumar Chauhan"
+role: "AI/ML Engineer & Full Stack Developer"
+focus: ["Machine Learning", "Data Analysis", "Web Development"]
+currently_learning: "Deep Learning & Advanced ML Systems"
+fun_fact: "I teach machines to think while I still overthink my code 😅"
+```
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,mysql,git,github,figma&perline=12" />
-</p>
+- 🔭 I'm currently building intelligent, data-driven applications
+- 🌱 Sharpening my skills in **Machine Learning**, **Deep Learning** & **Data Science**
+- 💻 Also love crafting full-stack web apps with the **MERN** stack
+- 📫 Reach me at **lovechauhan6564@gmail.com**
+- ⚡ Fun fact: I debug with `print()` and I'm not ashamed of it
 
----
+<br/>
 
-## 🧩 Skills Badges (Neon)
+## 🛠️ Tech Arsenal
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-ff4d6d?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-4d96ff?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ffd93d?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/React-00d9ff?style=for-the-badge&logo=react&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Tailwind-00f5d4?style=for-the-badge&logo=tailwindcss&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Bootstrap-a855f7?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-ffd166?style=for-the-badge&logo=python&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Git-ff6b35?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-22c55e?style=for-the-badge&logo=django&logoColor=000000" />
-</p>
+<div align="center">
 
----
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=py,go,js,html,css&theme=dark" />
 
-## 🚀 Projects
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
 
-### ⭐ ROCK-PAPER-SCISSOR WEB-GAME
-- 🛠️ **HTML • CSS • JavaScript**
-- 🔗 Live: `Now Live`
-- 📌 Repo: https://github.com/LoveChauhan-18/Rock-Paper-Scissor-game
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
----
+### Data Science & ML
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-### ⭐ FLAPPY-BIRD GAME
-- 🛠️ **Python  • Python-Liberary**
-- 🔗 Live: `Now Live`
-- 📌 Repo: https://github.com/LoveChauhan-18/Flappy-Bird-Game
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
----
+</div>
 
-### ⭐ Full Stack App (Coming Soon)
-- 🛠️ **React • Node.js • Express • MySQL**
-- 🔗 Live: `Coming Soon`
-- 📌 Repo: `Coming Soon`
+<br/>
 
----
+## 📊 GitHub Analytics
 
-## 🌍 Open Source Contributions
+<div align="center">
 
-<p>
-  I actively contribute to open source projects and love collaborating with the community.
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=LoveChauhan-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LoveChauhan-18&theme=tokyonight&hide_border=true" width="49%" />
 
-### 🏆 PR Count + Contributions
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoveChauhan-18&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoveChauhan-18&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
-### 📈 Contribution Graph
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoveChauhan-18&theme=react-dark&hide_border=true" />
-</p>
+</div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-<p align="left">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=LoveChauhan-18&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=LoveChauhan-18&theme=radical"
-    height="165"
-  />
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=LoveChauhan-18&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
 
-<p align="left">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LoveChauhan-18&layout=compact&theme=radical"
-    height="165"
-  />
-</p>
+<br/>
 
----
+## 📈 Contribution Graph
 
-## 🧠 CodeChef
-<a href="https://www.codechef.com/users/lovep25" target="_blank">
-  <img src="https://cdn.codechef.com/images/cc-logo.svg" height="42" alt=CodeChef" />
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LoveChauhan-18&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
+<br/>
 
-## 🧠 LeetCode
-<a href="https://leetcode.com/u/Love_Chauhan/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42" alt="Leetcode" />
-  
+## 🐍 Contribution Snake
 
----
+<div align="center">
 
-## 🤝 Connect With Me
+<!-- This animation is auto-generated by the GitHub Action in .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/LoveChauhan-18/LoveChauhan-18/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation eating contribution graph"/>
 
-<p align="left">
-  <a href="https://github.com/LoveChauhan-18">
-    <img src="https://skillicons.dev/icons?i=github" height="42" />
-  </a>
-  <a href="https://www.linkedin.com/in/love-kumar-chauhan-656766361">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
-  </a>
-  <a href="lovechauhan6564@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
-</p>
+## 🌐 Connect With Me
 
-<p align="center">
-  — simple • focused • evolving —
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/love-kumar-chauhan-659766361" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:lovechauhan6564@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
