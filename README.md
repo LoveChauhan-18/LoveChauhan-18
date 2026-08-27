@@ -90,7 +90,7 @@ fun_fact: "I teach machines to think while I still overthink my code 😅"
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LoveChauhan-18&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://my-activity-graph-cyan.vercel.app/graph?username=LoveChauhan-18&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 <br/>
