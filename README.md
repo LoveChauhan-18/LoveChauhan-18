@@ -9,7 +9,9 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=LoveChauhan-18&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/LoveChauhan-18?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="followers" />
+<a href="https://github.com/LoveChauhan-18?tab=followers">
+  <img src="https://img.shields.io/github/followers/LoveChauhan-18?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="followers" />
+</a>
 <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00F7FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+" alt="status" />
 
 </div>
