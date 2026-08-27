@@ -14,8 +14,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: LoveChauhan-18
-          output_path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          file: profile/trophy.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
       - name: Commit trophy
         run: |
           git config user.name "github-actions[bot]"
