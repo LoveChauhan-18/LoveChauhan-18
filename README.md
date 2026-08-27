@@ -82,7 +82,7 @@ fun_fact: "I teach machines to think while I still overthink my code 😅"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LoveChauhan-18&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="./profile/trophy.svg" />
 </div>
 
 <br/>
